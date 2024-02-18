@@ -1,0 +1,164 @@
+.navbar-section {
+    font-family: 'roboto';
+}
+
+#navbar-bg-custom-color {
+    background-color: #0c0521;
+}
+
+.navbar-logo {
+    height: 40px;
+}
+
+#navlink-custom-color-1 {
+    color: white;
+}
+
+#navlink-custom-color-2 {
+    color: white;
+}
+
+#navlink-custom-color-3 {
+    color: white;
+}
+
+#navlink-custom-color-4 {
+    color: white;
+}
+
+#navlink-custom-color-5 {
+    color: white;
+}
+
+.banner-section-bg {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size: cover;
+    color: white;
+    height: 100vh;
+}
+
+.banner-section-heading {
+    font-size: 37px;
+    font-weight: 700;
+}
+
+.bs-inline-text {
+    color: #FFDDA9;
+}
+
+.banner-section-heading-descript {
+    font-size: 21px;
+    margin-top: 24px;
+}
+
+.banner-section-button {
+    width: 130px;
+    padding: 9px 0px 9px 0px;
+    border-width: 0;
+    border-radius: 8px;
+    background-color: #FFDDA9;
+    font-weight: bold;
+    margin-top: 21px;
+}
+
+.logo-section {
+    font-family: 'roboto';
+}
+
+.logo-section-bg {
+    background-color: #f9fbfe;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.logo-section-heading {
+    font-size: 27px;
+    text-align: center;
+    font-weight: bold;
+    padding: 21px;
+}
+
+.logo-section-image {
+    height: 50px;
+    padding: 10px;
+    margin-top: 16px;
+    margin-top: 21px;
+    margin-bottom: 21px;
+}
+
+.uber-logo {
+    height: 47px;
+}
+
+.dnd-section {
+    font-family: 'roboto';
+}
+
+.dnd-card {
+    padding: 8px;
+    margin-top: 16px;
+}
+
+.dnd-card-image {
+    height: 160px;
+}
+
+.dnd-card-heading {
+    color: #323f4b;
+    font-size: 27px;
+    margin-top: 21px;
+}
+
+.dnd-card-descript {
+    color: #7b8794;
+    text-align: left;
+    margin-top: 16px;
+}
+
+.tools-section {
+    font-family: 'roboto';
+}
+
+.tools-section-image {
+    background-size: cover;
+    height: 45vh;
+}
+
+.tools-section-heading {
+    font-size: 27px;
+    color: #323f4b;
+    font-weight: bold;
+    margin-top: 18px;
+}
+
+.tools-section-descript {
+    font-size: 21px;
+    color: #7b8794;
+    margin-top: 21px;
+}
+
+.features-section {
+    font-family: 'roboto';
+}
+
+.features-section-heading {
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.features-section-descript {
+    color: #7b8794;
+    font-size: 18px;
+}
+
+.features-section-card-heading {
+    color: #323f4b;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.features-section-card-descript {
+    color: #9aa5b1;
+    margin-top: 12px;
+}
